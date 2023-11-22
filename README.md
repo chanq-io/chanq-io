@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chanq-io
+- 👋 Hi, I’m @chanq-io, an experienced audio & music software engineer
 - 👀 I’m interested in building music / audio products!
 - 🌱 I’m currently learning rust & tentatively dipping my toes in the deep waters of ML
 - 💞️ I’m looking to collaborate on anything really!
